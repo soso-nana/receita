@@ -76,7 +76,7 @@ ol, ul {
 
 }
 
-.tempo li:: marker {
+.tempo li::marker {
     color: #7a284e;
     font-size: 12px;
 }
@@ -88,7 +88,7 @@ h2 {
     margin-bottom: 24px;
 }
 
-.ingredientes li:: marker {
+.ingredientes li::marker {
     font-size: 12px;
     color: #854632;
 }
